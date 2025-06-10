@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://native.express/sitemap.xml 
+# Sitemap location
+Sitemap: https://native.express/sitemap.xml
+
+# Block common non-content files
+Disallow: /assets/
+Disallow: /*.css$
+Disallow: /*.js$ 
