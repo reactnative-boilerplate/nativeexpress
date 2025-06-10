@@ -135,22 +135,13 @@ nativeexpress/
 
 > *"NativeExpress was exactly what I needed, allowed me to launch a fairly complex mobile app in 3 months. Highly recommend to anyone in need of a react native boilerplate."* - **Matthew L., Founder of PolyM**
 
-## Requirements
-
-- **Node.js 18+** installed
-- **Expo CLI** installed globally: `npm install -g @expo/cli`
-- **iOS Simulator** (macOS) or **Android Studio** for testing
-- **Supabase account** (free tier available)
-- **RevenueCat account** (for monetization features)
-- **OneSignal account** (for push notifications)
-
 ## License
 
 This is a **premium React Native boilerplate**. The full version is available at [native.express](https://native.express) with commercial licensing.
 
-## Get the Full Version
+## The React Native Boilerplate
 
-This repository is for SEO and information purposes. **[Get the complete NativeExpress boilerplate](https://native.express)** with:
+**[Get the complete React Native boilerplate](https://native.express)** with:
 
 - ✅ Complete source code
 - ✅ All integrations pre-configured
